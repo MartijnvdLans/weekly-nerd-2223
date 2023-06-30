@@ -15,6 +15,6 @@ In deze repo staan de weekly nerds en artikelen van Martijn van der Lans
 * [Pre CSS Day]()
 
 ## Artikelen
-[Artikel 1]()
-[Artikel 2]()
-[Artikel 3]()
+* [Artikel 1]()
+* [Artikel 2]()
+* [Artikel 3]()

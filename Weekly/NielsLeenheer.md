@@ -1,0 +1,2 @@
+# Niels Leenheer
+Niels is onderdeel van Project Fugu, een chromium project dat het gat tussen Native apps en Web Applicaties te overbruggen door extra features toe te passen. Niels begon zijn praatje met het benoemen van de limitaties van WebApps vanwege slechte beveileging, Functionaliteiten en hardware interacties die beperkt zijn. Niels vertelde ons dat browsers een belangrijke rol spelen bij beveiliging en user trust.

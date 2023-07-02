@@ -17,5 +17,5 @@ In deze repo staan de weekly nerds en artikelen van Martijn van der Lans
 ## Artikelen
 * [The power of customization: Designing a Chrome extension](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Articles/chromeExtensions.md)
 * [What the Variable?!: The importance of naming things](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Articles/classNames.md)
-* [Artikel 3]()
+* [The Web is for Everyone: Accessible Web](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Articles/accessibility.md)
 * [NxT Museum](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Articles/nxtMuseum.md)

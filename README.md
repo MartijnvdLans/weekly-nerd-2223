@@ -15,6 +15,6 @@ In deze repo staan de weekly nerds en artikelen van Martijn van der Lans
 * [Pre CSS Day](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Weekly/PreCssDay.md)
 
 ## Artikelen
-* [Artikel 1]()
+* [The power of customization: Designing a Chrome extension](https://github.com/MartijnvdLans/weekly-nerd-2223/blob/main/Articles/chromeExtensions.md)
 * [Artikel 2]()
 * [Artikel 3]()

@@ -4,6 +4,9 @@ We all know how it goes. You're introduced to programming languages and try to s
 ## Why does it matter?
 The only other audience that reads your codes is other programmers who need to understand your code and maintain it in the future. This means a lot of people can and will see this code. Aside from that, working in teams might make it more difficult to work with each other if everyone is naming things without any groundrules. This might cause a project to become slowly more difficult and more annoying to work on.
 
+## A few tips
+Okay so Im writing my class and variable names incorrectly. But what can I do to write them correctly so that I wont confuse other programmers? Well ...
+
 ### Use naming conventions of the programming languages being used.
 Capitalization, multiple word names syntax, and the general language conventions for programming languages like classes, should be followed.
 
